@@ -1,0 +1,2 @@
+Tran Van A,1/1/1995,Binh Duong,Information Technology,Computer Science,7.5,1,7
+C,Quiz1,0.1,5.5,Quiz2,0.1,5.5,Practice1,0.05,9,Practice2,0.05,9,CPLB final test,0.2,7.5,Mock test,0.3,8.5,Mini-project,0.2,9,GPA,7.5
